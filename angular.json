@@ -123,5 +123,8 @@
       }
     }
   },
-  "defaultProject": "chartjs-sample"
+  "defaultProject": "chartjs-sample",
+  "cli": {
+    "analytics": "d691c9c3-d7a5-443c-8105-52bb6077e8f2"
+  }
 }
